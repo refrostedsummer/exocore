@@ -2,9 +2,9 @@
 # --- USER CONFIGURATION --- #
 ##############################
 
-title: Exocore
+title: Exogorb
 description: A navigable, organised hypertext personal knowledge base
-url: https://exocore.netlify.app
+url: https://gorbyworld.netlify.app
 repository: remiliacorp/exocore
 
 ##############################################
