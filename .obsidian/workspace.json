@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "readme.md",
+                "file": "_daily/2024-07-08.md",
                 "mode": "source",
                 "source": true
               }
@@ -67,14 +67,6 @@
             }
           },
           {
-            "id": "edda9e9b7c04de0d",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
-          },
-          {
             "id": "9b2403ce1faf8cfb",
             "type": "leaf",
             "state": {
@@ -102,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "readme.md",
+                "file": "_daily/2024-07-08.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "readme.md",
+                "file": "_daily/2024-07-08.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "readme.md"
+                "file": "_daily/2024-07-08.md"
               }
             }
           },
@@ -176,6 +168,7 @@
   "active": "3aa1ea3782e80e19",
   "lastOpenFiles": [
     "_daily/2024-07-08.md",
+    "readme.md",
     "_daily/2022-10-29.md",
     "_daily/2022-10-27.md",
     "_articles/table test.md",
