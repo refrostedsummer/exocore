@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ring.md",
+                "file": "_articles/Exocore Installation Instructions.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ring.md",
+                "file": "_articles/Exocore Installation Instructions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ring.md",
+                "file": "_articles/Exocore Installation Instructions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ring.md"
+                "file": "_articles/Exocore Installation Instructions.md"
               }
             }
           },
@@ -158,11 +158,12 @@
   },
   "active": "3aa1ea3782e80e19",
   "lastOpenFiles": [
+    "_articles/The Exocore Package.md",
+    "_articles/Configure Exocore for Personal Use.md",
+    "ring.md",
     "_daily/2024-07-09.md",
     "index.md",
     "readme.md",
-    "ring.md",
-    "_articles/Configure Exocore for Personal Use.md",
     "_daily/2024-07-08.md",
     "library/buildingTheMemexSixtyYearsLaterTrendsAndDirectionsInPe.pdf",
     "library/Against Intellectual Property_2.pdf",
