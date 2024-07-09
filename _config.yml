@@ -62,7 +62,7 @@ includes_dir: ./exocore/_includes
 plugins_dir: ./exocore/_plugins
 data_dir: ./exocore/data
 tag_page_dir: tag
-tag_page_layout: tag_page
+tag_page_layout: ./exocore/tag_page
       
 defaults:
   - scope:
