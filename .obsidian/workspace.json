@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "_articles/Configure Exocore for Personal Use.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "_articles/Configure Exocore for Personal Use.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "_articles/Configure Exocore for Personal Use.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "_articles/Configure Exocore for Personal Use.md"
               }
             }
           },
@@ -158,6 +158,9 @@
   },
   "active": "3aa1ea3782e80e19",
   "lastOpenFiles": [
+    "index.md",
+    "assets/imgs/pfp.png",
+    "assets/imgs/Apophysis-221129-117.png",
     "_articles/Configure Exocore for Personal Use.md",
     "_journal/The Exocore Workflow.md",
     "_wiki/fractals.md",
@@ -166,7 +169,6 @@
     "_articles/Exocore Installation Instructions.md",
     "_articles/The Exocore Package.md",
     "ring.md",
-    "index.md",
     "readme.md",
     "_daily/2024-07-08.md",
     "library/buildingTheMemexSixtyYearsLaterTrendsAndDirectionsInPe.pdf",
@@ -181,8 +183,6 @@
     "assets/attachments/Untitled7.png",
     "assets/attachments/Untitled18.png",
     "assets/attachments/Untitled17.png",
-    "assets/attachments/Untitled16.png",
-    "assets/attachments/Untitled14.png",
     "_daily/2022-10-29.md",
     "_daily/2022-10-27.md",
     "_articles/table test.md",
