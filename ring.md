@@ -2,11 +2,7 @@
 layout: ring
 title: Webring
 ---
-## exocores
-found on google+other exocores
-
-
-| [Edith Reisen](https://edith.reisen/)                                                   | Para-academic knowledge repository and power hikikomori optimization manual                                            |
+| exocores                                                                                |                                                                                                                        |
 | --------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
 | [Don's Directory](http://dons.directory/)                                               | شارع بدون تبخير ساخن                                                                                                   |
 | [Leili Laternapoiss](https://leili.netlify.app/)                                        | Your entry into the magical Enlightenment of Lanternland!                                                              |
@@ -18,4 +14,6 @@ found on google+other exocores
 | [teknosis ltd.](https://teknosis.online/)                                               |                                                                                                                        |
 | [soma.cx](https://soma.cx/)                                                             |                                                                                                                        |
 | [Otaku Can Change The World](https://otakucanchangetheworld.netlify.app/pages/articles) |                                                                                                                        |
-| [White Oath](https://whiteoath.net/)                                                                                        |                                                                                                                        |
+| [White Oath](https://whiteoath.net/)                                                    |                                                                                                                        |
+| [Edith Reisen](https://edith.reisen/)                                                   | Para-academic knowledge repository and power hikikomori optimization manual                                            |
+|                                                                                         |                                                                                                                        |
