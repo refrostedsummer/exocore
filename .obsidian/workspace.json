@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ring.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ring.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ring.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ring.md"
+                "file": "index.md"
               }
             }
           },
@@ -158,8 +158,10 @@
   },
   "active": "3aa1ea3782e80e19",
   "lastOpenFiles": [
-    "_daily/2024-07-08.md",
+    "_articles/Configure Exocore for Personal Use.md",
+    "readme.md",
     "ring.md",
+    "_daily/2024-07-08.md",
     "library/buildingTheMemexSixtyYearsLaterTrendsAndDirectionsInPe.pdf",
     "library/Against Intellectual Property_2.pdf",
     "_wiki/Usufruct.md",
@@ -175,14 +177,12 @@
     "assets/attachments/Untitled17.png",
     "assets/attachments/Untitled16.png",
     "assets/attachments/Untitled14.png",
-    "readme.md",
     "_daily/2022-10-29.md",
     "_daily/2022-10-27.md",
     "_articles/table test.md",
     "_daily/2022-10-25.md",
     "_articles/Exocore Installation Instructions.md",
     "_articles/Writing with Exocore Syntax.md",
-    "_articles/Configure Exocore for Personal Use.md",
     "_daily/2022-10-23.md",
     "_daily/2022-05-11.md"
   ]
