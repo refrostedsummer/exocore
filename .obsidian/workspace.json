@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_daily/2024-07-09.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_daily/2024-07-09.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_daily/2024-07-09.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_daily/2024-07-09.md"
+                "file": "index.md"
               }
             }
           },
@@ -158,12 +158,14 @@
   },
   "active": "3aa1ea3782e80e19",
   "lastOpenFiles": [
+    "_articles/Configure Exocore for Personal Use.md",
+    "_journal/The Exocore Workflow.md",
+    "_wiki/fractals.md",
+    "_daily/2024-07-09.md",
     "exocore/_layouts/tag_page.html",
     "_articles/Exocore Installation Instructions.md",
     "_articles/The Exocore Package.md",
-    "_articles/Configure Exocore for Personal Use.md",
     "ring.md",
-    "_daily/2024-07-09.md",
     "index.md",
     "readme.md",
     "_daily/2024-07-08.md",
@@ -171,7 +173,6 @@
     "library/Against Intellectual Property_2.pdf",
     "_wiki/Usufruct.md",
     "_wiki/L-Dopa.md",
-    "_wiki/fractals.md",
     "assets/attachments/Apophysis-221129-117.png",
     "assets/attachments/disc2.png",
     "assets/attachments/Untitled5.png",
