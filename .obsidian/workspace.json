@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_wiki/fractals.md",
+                "file": "ring.md",
                 "mode": "source",
                 "source": true
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_wiki/fractals.md",
+                "file": "ring.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_wiki/fractals.md",
+                "file": "ring.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_wiki/fractals.md"
+                "file": "ring.md"
               }
             }
           },
@@ -159,9 +158,13 @@
   },
   "active": "3aa1ea3782e80e19",
   "lastOpenFiles": [
+    "library/buildingTheMemexSixtyYearsLaterTrendsAndDirectionsInPe.pdf",
+    "library/Against Intellectual Property_2.pdf",
+    "_wiki/Usufruct.md",
+    "_wiki/L-Dopa.md",
+    "_wiki/fractals.md",
     "assets/attachments/Apophysis-221129-117.png",
     "assets/attachments/disc2.png",
-    "_wiki/fractals.md",
     "assets/attachments/Untitled5.png",
     "assets/attachments/Untitled21.png",
     "assets/attachments/Untitled20.png",
@@ -170,7 +173,6 @@
     "assets/attachments/Untitled17.png",
     "assets/attachments/Untitled16.png",
     "assets/attachments/Untitled14.png",
-    "assets/attachments/Untitled13.png",
     "_daily/2024-07-08.md",
     "readme.md",
     "_daily/2022-10-29.md",
