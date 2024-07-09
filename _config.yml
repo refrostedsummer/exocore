@@ -2,8 +2,8 @@
 # --- USER CONFIGURATION --- #
 ##############################
 
-title: Exogorb
-description: A navigable, organised hypertext personal knowledge base
+title: exogorb
+description: A navigable, organised hypertext gorb
 url: https://gorbyworld.netlify.app
 repository: refrostedsummer/exocore
 
