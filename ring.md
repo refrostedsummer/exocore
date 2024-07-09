@@ -16,4 +16,3 @@ title: Webring
 | [Otaku Can Change The World](https://otakucanchangetheworld.netlify.app/pages/articles) |                                                                                                                        |
 | [White Oath](https://whiteoath.net/)                                                    |                                                                                                                        |
 | [Edith Reisen](https://edith.reisen/)                                                   | Para-academic knowledge repository and power hikikomori optimization manual                                            |
-|                                                                                         |                                                                                                                        |
