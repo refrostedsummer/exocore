@@ -8,27 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "68bdb0177a6320a6",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "3aa1ea3782e80e19",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_daily/2024-07-08.md",
+                "file": "_wiki/fractals.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -74,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -94,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_daily/2024-07-08.md",
+                "file": "_wiki/fractals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_daily/2024-07-08.md",
+                "file": "_wiki/fractals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_daily/2024-07-08.md"
+                "file": "_wiki/fractals.md"
               }
             }
           },
@@ -165,9 +157,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3aa1ea3782e80e19",
+  "active": "cf91471a0053b065",
   "lastOpenFiles": [
+    "assets/attachments/ball.png",
     "_daily/2024-07-08.md",
+    "_wiki/fractals.md",
     "readme.md",
     "_daily/2022-10-29.md",
     "_daily/2022-10-27.md",
