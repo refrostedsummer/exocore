@@ -3,7 +3,8 @@ layout: ring
 title: Webring
 ---
 ## exocores
-**NOTE:** these are just exocores i found on google+other exocores, if you don't want your site here please let me know (gorbyworld on other platforms)
+**NOTE:** these are just exocores i found on google+other exocores
+
 
 | [Edith Reisen](https://edith.reisen/)            | Para-academic knowledge repository and power hikikomori optimization manual                                            |
 | ------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------- |
@@ -14,4 +15,5 @@ title: Webring
 | [Timeline Game](https://timelinegame.net/)       | a repository of information for `"Timeline Game"`, the playable digital card game and NFT collection from Violet House |
 | [Sonora Sprite](https://spritecore.netlify.app/) |                                                                                                                        |
 | [disengagea](https://disengagea.toikos.net/)     |                                                                                                                        |
-| [teknosis ltd.](https://teknosis.online/)                                                 |                                                                                                                        |
+| [teknosis ltd.](https://teknosis.online/)        |                                                                                                                        |
+|                                                  |                                                                                                                        |
