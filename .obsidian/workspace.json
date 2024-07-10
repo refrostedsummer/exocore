@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_articles/Configure Exocore for Personal Use.md",
+                "file": "_wiki/shadowdog.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_articles/Configure Exocore for Personal Use.md",
+                "file": "_wiki/shadowdog.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_articles/Configure Exocore for Personal Use.md",
+                "file": "_wiki/shadowdog.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_articles/Configure Exocore for Personal Use.md"
+                "file": "_wiki/shadowdog.md"
               }
             }
           },
@@ -158,23 +158,27 @@
   },
   "active": "3aa1ea3782e80e19",
   "lastOpenFiles": [
+    "assets/attachments/6020337.png",
+    "assets/attachments/Pasted image 20240709212012.jpg",
+    "_wiki/Usufruct.md",
+    "_wiki/L-Dopa.md",
+    "_wiki/fractals.md",
+    "_wiki/shadowdog.md",
+    "_wiki/music.md",
+    "_daily/2024-07-08.md",
+    "_daily/2024-07-09.md",
+    "_articles/Configure Exocore for Personal Use.md",
     "index.md",
     "assets/imgs/pfp.png",
     "assets/imgs/Apophysis-221129-117.png",
-    "_articles/Configure Exocore for Personal Use.md",
     "_journal/The Exocore Workflow.md",
-    "_wiki/fractals.md",
-    "_daily/2024-07-09.md",
     "exocore/_layouts/tag_page.html",
     "_articles/Exocore Installation Instructions.md",
     "_articles/The Exocore Package.md",
     "ring.md",
     "readme.md",
-    "_daily/2024-07-08.md",
     "library/buildingTheMemexSixtyYearsLaterTrendsAndDirectionsInPe.pdf",
     "library/Against Intellectual Property_2.pdf",
-    "_wiki/Usufruct.md",
-    "_wiki/L-Dopa.md",
     "assets/attachments/Apophysis-221129-117.png",
     "assets/attachments/disc2.png",
     "assets/attachments/Untitled5.png",
@@ -182,7 +186,6 @@
     "assets/attachments/Untitled20.png",
     "assets/attachments/Untitled7.png",
     "assets/attachments/Untitled18.png",
-    "assets/attachments/Untitled17.png",
     "_daily/2022-10-29.md",
     "_daily/2022-10-27.md",
     "_articles/table test.md",

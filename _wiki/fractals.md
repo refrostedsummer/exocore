@@ -2,7 +2,7 @@
 published: true
 subtitle: by gorb(im made(generated) these)
 date: 2024-07-08
-tags: art gorb
+tags: visual-art art gorb
 ---
 
 # fractals
