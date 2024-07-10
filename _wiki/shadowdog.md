@@ -13,6 +13,7 @@ tags: art music
 ## some excerpts i like
 
 Most of the music that gets branded with the "post-internet" label often has an ironic or detached edge to it, yet still presents this idealistic image of the internet as a way to facilitate [a change] from the banalities of everyday life. tirestires' _Shadowdog_ ignores even the suggestion of putting up that sort of facade at all, instead presenting a bleaker view of the concept; overstimulating yet ultimately mind-numbing, an outlet to fulfill every perversion no matter how overly-specific or morally dubious, full of incoherent sludge not even comprehensible to the minds who engineered it. Whereas the sort of thing that gets labeled "hyperpop" presents an alternate reality where one is free from embarrassment, tirestires provides the reality check, showing the world how deep the abyss truly is.
+
 ~ [verai](https://rateyourmusic.com/music-review/verai/tirestires/shadowdog/215104641)
 
 
@@ -27,4 +28,5 @@ Discovering that the artist and I are the same age made everything make so much 
 Buried under layers of dissonance and syncopation are beautiful melodies demented into a decidedly cryptic feel to the album. If you pay careful attention to the instruments, it is not difficult to recognize the obvious sounds of a folk band. Yet from this relatively “natural” sound tirestires adds breaks, glitching, and completely synthetic sounds to create a whole different beast never explored in the world of indietronica or glitch pop. The music is corrupted, like a glitched computer file.
 ... Shockingly graphic imagery of sex straddle mundane, even comical descriptions of routine and innocence. In “unclogging roof drain on her // bare rests”, a vague scene of the morning after a one night stand is coupled with a retelling of quite literally unclogging a roof drain. The online world and the real one merge into each other.
 ... His interactions with his parents seem removed from himself, lacking in description and emotion. Yet his time alone, searching for sex online to fill his void is given with meticulous detail.
+
 ~ [balenci73](https://rateyourmusic.com/music-review/balenci73/tirestires/shadowdog/151337289)

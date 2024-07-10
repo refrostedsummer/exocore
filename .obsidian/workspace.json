@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_wiki/shadowdog.md",
+                "file": "_wiki/fractals.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_wiki/shadowdog.md",
+                "file": "_wiki/fractals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_wiki/shadowdog.md",
+                "file": "_wiki/fractals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_wiki/shadowdog.md"
+                "file": "_wiki/fractals.md"
               }
             }
           },
@@ -158,8 +158,9 @@
   },
   "active": "3aa1ea3782e80e19",
   "lastOpenFiles": [
-    "_wiki/music.md",
+    "_wiki/L-Dopa.md",
     "_wiki/shadowdog.md",
+    "_wiki/music.md",
     "_daily/2022-05-11.md",
     "_daily/2024-07-08.md",
     "_daily/2024-07-10.md",
@@ -167,7 +168,6 @@
     "assets/attachments/6020337.png",
     "assets/attachments/Pasted image 20240709212012.jpg",
     "_wiki/Usufruct.md",
-    "_wiki/L-Dopa.md",
     "_wiki/fractals.md",
     "_daily/2024-07-09.md",
     "_articles/Configure Exocore for Personal Use.md",
