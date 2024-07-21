@@ -6,24 +6,22 @@ tags:
 ---
 
 # record collection
-{% assign row = site.data.vinylz[0] %} {{ row | inspect }}
-{% assign row = site.data.vinylz[0] %}
-{% for pair in row %}
-  {{ pair | inspect }}
-{% endfor %}
+{% assign mydata=site.data.foo %}
 
 <table>
-  {% for row in site.data.vinylz %}
-    {% if forloop.first %}
-    <tr>
-      {% for pair in row %}
-        <th>{{ pair[0] }}</th>
-      {% endfor %}
-    </tr>
-    {% endif %}
-
-    {% tablerow pair in row %}
-      {{ pair[1] }}
-    {% endtablerow %}
-  {% endfor %}
+    <caption>Table caption</caption>
+    <thead>
+    {% for column in mydata[0] %}
+        <th>{{ column[0] }}</th>
+    {% endfor %}
+    </thead>
+    <tbody>
+    {% for row in mydata %}
+        <tr>
+        {% for cell in row %}
+            <td>{{ cell[1] }}</td>
+        {% endfor %}
+        </tr>
+    {% endfor %}
+    </tbody>
 </table>
