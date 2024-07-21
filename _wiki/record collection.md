@@ -6,7 +6,7 @@ tags:
 ---
 
 # record collection
-{% assign mydata=site.data.foo %}
+{% assign mydata=site.data.vinylz %}
 
 <table>
     <caption>Table caption</caption>
