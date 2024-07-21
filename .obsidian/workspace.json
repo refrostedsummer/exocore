@@ -18,8 +18,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "698d6c845f2e0aa3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_wiki/record collection.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_wiki/shadowdog.md",
+                "file": "_wiki/record collection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_wiki/shadowdog.md",
+                "file": "_wiki/record collection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_wiki/shadowdog.md"
+                "file": "_wiki/record collection.md"
               }
             }
           },
@@ -156,8 +169,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3aa1ea3782e80e19",
+  "active": "698d6c845f2e0aa3",
   "lastOpenFiles": [
+    "_data/vinylz.csv",
+    "_wiki/music.md",
+    "_wiki/record collection.md",
+    "_data/gree_n-collection-20240721-1303.csv",
+    "_data",
+    "New folder",
+    "_daily/2024-07-21.md",
     "_daily/2024-07-13.md",
     "_articles/Exocore Installation Instructions.md",
     "_daily/2024-07-12.md",
@@ -165,7 +185,6 @@
     "_wiki/fractals.md",
     "_wiki/L-Dopa.md",
     "_wiki/shadowdog.md",
-    "_wiki/music.md",
     "_daily/2022-05-11.md",
     "_daily/2024-07-08.md",
     "_daily/2024-07-10.md",
@@ -193,8 +212,6 @@
     "_daily/2022-10-29.md",
     "_daily/2022-10-27.md",
     "_articles/table test.md",
-    "_daily/2022-10-25.md",
-    "_articles/Writing with Exocore Syntax.md",
-    "_daily/2022-10-23.md"
+    "_daily/2022-10-25.md"
   ]
 }

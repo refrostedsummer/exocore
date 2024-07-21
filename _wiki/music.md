@@ -6,4 +6,6 @@ tags:
 ---
 
 # music
+my vinyls colection!!!!!!! !
+
 [[shadowdog]]
