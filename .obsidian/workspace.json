@@ -171,6 +171,11 @@
   },
   "active": "698d6c845f2e0aa3",
   "lastOpenFiles": [
+    "DataTables/datatables.min.js",
+    "DataTables/datatables.min.css",
+    "DataTables/datatables.js",
+    "DataTables/datatables.css",
+    "DataTables",
     "_daily/2024-07-21.md",
     "_wiki/music ratings.md",
     "_wiki/record collection.md",
@@ -204,7 +209,6 @@
     "ring.md",
     "readme.md",
     "library/buildingTheMemexSixtyYearsLaterTrendsAndDirectionsInPe.pdf",
-    "library/Against Intellectual Property_2.pdf",
     "assets/attachments/Apophysis-221129-117.png",
     "assets/attachments/disc2.png",
     "assets/attachments/Untitled5.png",
@@ -212,7 +216,6 @@
     "assets/attachments/Untitled20.png",
     "_daily/2022-10-29.md",
     "_daily/2022-10-27.md",
-    "_articles/table test.md",
-    "_daily/2022-10-25.md"
+    "_articles/table test.md"
   ]
 }
