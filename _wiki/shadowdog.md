@@ -8,12 +8,12 @@ tags: art music
 # shadowdog
 [listen](https://www.youtube.com/watch?v=fVLGvFMzjIs)
 
+{% miniaudio '/assets/attachments/shadodog/3.mp3' %}
 
 ![[6020337.png]]
 
 ![[gallery-sri-panwa-luxury-hotel-phuket-pool-suite-east-1.jpg]]
 
-shadowdog is a stream of consciousness-style first-person narrative which begins somewhere in the subject’s early childhood (perhaps around his first interactions/experiences with technology) and ends somewhere in his late adulthood. (in the album this is not chronologically in order, idk what order it could really be in.) i think that it brilliantly and relentlessly portrays how the cycle of abuse can manifest in a post-internet age (particularly on the concept that paraphilias can develop from trauma and/or childhood exposure to shocking content) as well as the social& psychological impacts of the internet on children and adolescent development, & ultimately humanity/society at large.
 
 ## some excerpts i like
 
