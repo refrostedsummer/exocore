@@ -6,7 +6,7 @@ tags: art music
 ---
 
 # shadowdog
-listen:
+listen (mp3):
 
 {% include embed-audio.html src="/assets/attachments/shadodog/1.mp3" %}
 {% include embed-audio.html src="/assets/attachments/shadodog/2.mp3" %}

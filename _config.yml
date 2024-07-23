@@ -181,3 +181,4 @@ plugins:
 - jekyll-wikilinks
 - jekyll-last-modified-at
 - jekyll-graph
+- jekyll-spaceship
