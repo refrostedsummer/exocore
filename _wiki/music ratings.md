@@ -17,6 +17,8 @@ tags:
         <th>{{ pair[0] }}</th>
       {% endfor %}
     </tr>
+    {% endif %}
+    {% endfor %}
 
     {% tablerow pair in row %}
       {{ pair[1] }}
