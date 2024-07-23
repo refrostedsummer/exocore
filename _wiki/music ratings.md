@@ -220,3 +220,19 @@ tags:
 |長谷川白紙                                                                                   |エアにに (Air ni ni)                                                            |8     |2019        |
 
 <div class="datatable-end"></div>
+
+<table>
+  {% for row in site.data.vinylz}
+    {% if forloop.first %}
+    <tr>
+      {% for pair in row %}
+        <th>{{ pair[0] }}</th>
+      {% endfor %}
+    </tr>
+    {% endif %}
+
+    {% tablerow pair in row %}
+      {{ pair[1] }}
+    {% endtablerow %}
+  {% endfor %}
+</table>
