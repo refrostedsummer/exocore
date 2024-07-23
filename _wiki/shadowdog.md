@@ -6,9 +6,28 @@ tags: art music
 ---
 
 # shadowdog
-[listen](https://www.youtube.com/watch?v=fVLGvFMzjIs)
-
+listen:
+{% include embed-audio.html src="/assets/attachments/shadodog/1.mp3" %}
+{% include embed-audio.html src="/assets/attachments/shadodog/2.mp3" %}
 {% include embed-audio.html src="/assets/attachments/shadodog/3.mp3" %}
+{% include embed-audio.html src="/assets/attachments/shadodog/4.mp3" %}
+{% include embed-audio.html src="/assets/attachments/shadodog/5.mp3" %}
+{% include embed-audio.html src="/assets/attachments/shadodog/6.mp3" %}
+{% include embed-audio.html src="/assets/attachments/shadodog/7.mp3" %}
+{% include embed-audio.html src="/assets/attachments/shadodog/8.mp3" %}
+{% include embed-audio.html src="/assets/attachments/shadodog/9.mp3" %}
+{% include embed-audio.html src="/assets/attachments/shadodog/10.mp3" %}
+{% include embed-audio.html src="/assets/attachments/shadodog/11.mp3" %}
+{% include embed-audio.html src="/assets/attachments/shadodog/12.mp3" %}
+{% include embed-audio.html src="/assets/attachments/shadodog/13.mp3" %}
+{% include embed-audio.html src="/assets/attachments/shadodog/14.mp3" %}
+{% include embed-audio.html src="/assets/attachments/shadodog/15.mp3" %}
+{% include embed-audio.html src="/assets/attachments/shadodog/16.mp3" %}
+{% include embed-audio.html src="/assets/attachments/shadodog/17.mp3" %}
+{% include embed-audio.html src="/assets/attachments/shadodog/18mp3" %}
+{% include embed-audio.html src="/assets/attachments/shadodog/19.mp3" %}
+{% include embed-audio.html src="/assets/attachments/shadodog/20.mp3" %}
+{% include embed-audio.html src="/assets/attachments/shadodog/21.p3" %}
 
 ![[6020337.png]]
 
