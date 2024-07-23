@@ -18,7 +18,6 @@ tags:
       {% endfor %}
     </tr>
 
-
     {% tablerow pair in row %}
       {{ pair[1] }}
     {% endtablerow %}
