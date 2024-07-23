@@ -14,6 +14,9 @@ tags: art music
 
 ![[gallery-sri-panwa-luxury-hotel-phuket-pool-suite-east-1.jpg]]
 
+shadowdog is a stream of consciousness-style first-person narrative which begins somewhere in the subject’s early childhood (perhaps around his first interactions/experiences with technology) and ends somewhere in his later adulthood. (in the album this is not chronologically in order.)
+
+i consider it a brilliant and relentless portrait of the cycle of abuse in a post-net world (particularly on the concept that paraphilias can originate from trauma and/or childhood exposure to shocking content) as well as the social and psychological impacts of the internet on children and adolescent development, and ultimately humanity/society at large.
 
 ## some excerpts i like
 

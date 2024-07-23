@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3aa1ea3782e80e19",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_wiki/shadowdog.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
             "id": "698d6c845f2e0aa3",
             "type": "leaf",
             "state": {
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -171,22 +158,23 @@
   },
   "active": "698d6c845f2e0aa3",
   "lastOpenFiles": [
+    "assets/attachments/shadodog/21.mp3",
+    "assets/attachments/shadodog/20.mp3",
+    "assets/attachments/shadodog/19.mp3",
+    "assets/attachments/shadodog/18.mp3",
+    "assets/attachments/shadodog/17.mp3",
+    "assets/attachments/shadodog/16.mp3",
+    "assets/attachments/shadodog/15.mp3",
+    "assets/attachments/shadodog/14.mp3",
+    "assets/attachments/shadodog/13.mp3",
+    "assets/attachments/shadodog/12.mp3",
+    "assets/attachments/shadodog/11.mp3",
     "_daily/2024-07-21.md",
     "_wiki/shadowdog.md",
     "_daily/2024-07-22.md",
-    "exocore/_includes/embed-audio.html",
-    "assets/attachments/shadodog/3.mp3",
     "_wiki/music ratings.md",
-    "DataTables/datatables.min.js",
-    "DataTables/datatables.min.css",
-    "DataTables/datatables.js",
-    "DataTables/datatables.css",
-    "DataTables",
     "_wiki/record collection.md",
     "_wiki/music.md",
-    "_data/vinylz.csv",
-    "_data/gree_n-collection-20240721-1303.csv",
-    "_data",
     "_daily/2024-07-13.md",
     "_articles/Exocore Installation Instructions.md",
     "_daily/2024-07-12.md",
