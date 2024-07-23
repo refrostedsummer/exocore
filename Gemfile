@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-gem "jekyll", "~> 3.8"
+gem "jekyll", "4.2.1"
 gem "jekyll-optional-front-matter"
 gem "jekyll-default-layout"
 gem "jekyll-readme-index"
@@ -21,4 +21,3 @@ gem 'jekyll-wikilinks', '0.0.11'
 gem 'ruby-graphviz'
 gem "jekyll-graph"
 gem 'jekyll-tagging'
-gem 'jekyll-miniaudio'
