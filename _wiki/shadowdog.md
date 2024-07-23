@@ -6,31 +6,72 @@ tags: art music
 ---
 
 # shadowdog
-listen (mp3):
-
-{% include embed-audio.html src="/assets/attachments/shadodog/1.mp3" %}
-{% include embed-audio.html src="/assets/attachments/shadodog/2.mp3" %}
-{% include embed-audio.html src="/assets/attachments/shadodog/3.mp3" %}
-{% include embed-audio.html src="/assets/attachments/shadodog/4.mp3" %}
-{% include embed-audio.html src="/assets/attachments/shadodog/5.mp3" %}
-{% include embed-audio.html src="/assets/attachments/shadodog/6.mp3" %}
-{% include embed-audio.html src="/assets/attachments/shadodog/7.mp3" %}
-{% include embed-audio.html src="/assets/attachments/shadodog/8.mp3" %}
-{% include embed-audio.html src="/assets/attachments/shadodog/9.mp3" %}
-{% include embed-audio.html src="/assets/attachments/shadodog/10.mp3" %}
-{% include embed-audio.html src="/assets/attachments/shadodog/11.mp3" %}
-{% include embed-audio.html src="/assets/attachments/shadodog/12.mp3" %}
-{% include embed-audio.html src="/assets/attachments/shadodog/13.mp3" %}
-{% include embed-audio.html src="/assets/attachments/shadodog/14.mp3" %}
-{% include embed-audio.html src="/assets/attachments/shadodog/15.mp3" %}
-{% include embed-audio.html src="/assets/attachments/shadodog/16.mp3" %}
-{% include embed-audio.html src="/assets/attachments/shadodog/17.mp3" %}
-{% include embed-audio.html src="/assets/attachments/shadodog/18mp3" %}
-{% include embed-audio.html src="/assets/attachments/shadodog/19.mp3" %}
-{% include embed-audio.html src="/assets/attachments/shadodog/20.mp3" %}
-{% include embed-audio.html src="/assets/attachments/shadodog/21.mp3" %}
-
 ![[6020337.png]]
+by tirestires
+
+listen (mp3):
+***after sex under parents***
+{% include embed-audio.html src="/assets/attachments/shadodog/1.mp3" %}
+
+***minutes in and chill meme // mature butthole prolapses inside-out // my basement scene #1***
+{% include embed-audio.html src="/assets/attachments/shadodog/2.mp3" %}
+
+***breaking apart baby monitor/potential recording device // my basement scene #2***
+{% include embed-audio.html src="/assets/attachments/shadodog/3.mp3" %}
+
+***unclogging roof drain on her // bare rests***
+{% include embed-audio.html src="/assets/attachments/shadodog/4.mp3" %}
+
+***valerian tea // underage on message board // mom tags herself viewing me in ultrasound // a vacation, apart***
+{% include embed-audio.html src="/assets/attachments/shadodog/5.mp3" %}
+
+***hiding seek at family reunion // drowning after sand burial // a vacation***
+{% include embed-audio.html src="/assets/attachments/shadodog/6.mp3" %}
+
+***breast feeding home movie // head indents ceiling, again // 50th mom birthday***
+{% include embed-audio.html src="/assets/attachments/shadodog/7.mp3" %}
+
+***wedding dress rehearsal after bachelor party/baby shower // morning nausea***
+{% include embed-audio.html src="/assets/attachments/shadodog/8.mp3" %}
+
+***carrying topical cream back home // elder crossing guard with fas***
+{% include embed-audio.html src="/assets/attachments/shadodog/9.mp3" %}
+
+***kissing after late party // awaiting torrent finish // sharing old haircut incites new haircut***
+{% include embed-audio.html src="/assets/attachments/shadodog/10.mp3" %}
+
+***(mirror) upload of ancient condom opening vlog // looking glasses reflecting off each other // my basement scene #3***
+{% include embed-audio.html src="/assets/attachments/shadodog/11.mp3" %}
+
+***pink eye // far from residential areas with phone and charger and eye drops and no purse and no pockets***
+{% include embed-audio.html src="/assets/attachments/shadodog/12.mp3" %}
+
+***pvr pregnant teens // before abstract tech support schedule // dad turns 50***
+{% include embed-audio.html src="/assets/attachments/shadodog/13.mp3" %}
+
+***sharing one-bed room // hotel bolts down all fixtures other than clock // a vacation***
+{% include embed-audio.html src="/assets/attachments/shadodog/14.mp3" %}
+
+***mommymommymommymommy // i text while driving communications between parents***
+{% include embed-audio.html src="/assets/attachments/shadodog/15.mp3" %}
+
+***girl next-door break-up nudes // international date site // my basement scene #4***
+{% include embed-audio.html src="/assets/attachments/shadodog/16.mp3" %}
+
+***shedding fur lit by dvd home menu snow // my basement scene #5***
+{% include embed-audio.html src="/assets/attachments/shadodog/17.mp3" %}
+
+***new suburb before streetlights // post-millennium/post-mom-move***
+{% include embed-audio.html src="/assets/attachments/shadodog/18.mp3" %}
+
+***holiday in house with kids // pre-millennium/pre-mom-move // not summer***
+{% include embed-audio.html src="/assets/attachments/shadodog/19.mp3" %}
+
+***fursona request thread // home phoning cell before deleting first nudes // my basement scene #6***
+{% include embed-audio.html src="/assets/attachments/shadodog/20.mp3" %}
+
+***pollen like snow // not summer***
+{% include embed-audio.html src="/assets/attachments/shadodog/21.mp3" %}
 
 ![[gallery-sri-panwa-luxury-hotel-phuket-pool-suite-east-1.jpg]]
 
