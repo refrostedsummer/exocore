@@ -23,3 +23,4 @@ gem 'ruby-graphviz'
 gem "jekyll-last-modified-at"
 gem "jekyll-graph"
 gem 'jekyll-tagging'
+gem 'jekyll-miniaudio'

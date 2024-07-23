@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_wiki/shadowdog.md",
+                "file": "_daily/2024-07-22.md",
                 "mode": "source",
                 "source": true
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_wiki/shadowdog.md",
+                "file": "_daily/2024-07-22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_wiki/shadowdog.md",
+                "file": "_daily/2024-07-22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_wiki/shadowdog.md"
+                "file": "_daily/2024-07-22.md"
               }
             }
           },
@@ -171,9 +171,10 @@
   },
   "active": "698d6c845f2e0aa3",
   "lastOpenFiles": [
+    "_wiki/shadowdog.md",
+    "_daily/2024-07-22.md",
     "assets/attachments/shadodog/3.mp3",
     "_wiki/music ratings.md",
-    "_daily/2024-07-22.md",
     "DataTables/datatables.min.js",
     "DataTables/datatables.min.css",
     "DataTables/datatables.js",
@@ -192,7 +193,6 @@
     "_daily/2024-07-19.md",
     "_wiki/fractals.md",
     "_wiki/L-Dopa.md",
-    "_wiki/shadowdog.md",
     "_daily/2022-05-11.md",
     "_daily/2024-07-08.md",
     "_daily/2024-07-10.md",
@@ -206,7 +206,6 @@
     "assets/imgs/pfp.png",
     "assets/imgs/Apophysis-221129-117.png",
     "_journal/The Exocore Workflow.md",
-    "exocore/_layouts/tag_page.html",
     "_articles/The Exocore Package.md",
     "ring.md",
     "readme.md",
