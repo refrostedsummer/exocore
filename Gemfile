@@ -21,3 +21,5 @@ gem 'jekyll-wikilinks', '0.0.11'
 gem 'ruby-graphviz'
 gem "jekyll-graph"
 gem 'jekyll-tagging'
+gem 'jekyll-spaceship', group: :jekyll_plugins
+gem 'jekyll-scholar', group: :jekyll_plugins
