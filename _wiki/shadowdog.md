@@ -7,6 +7,7 @@ tags: art music
 
 # shadowdog
 listen:
+
 {% include embed-audio.html src="/assets/attachments/shadodog/1.mp3" %}
 {% include embed-audio.html src="/assets/attachments/shadodog/2.mp3" %}
 {% include embed-audio.html src="/assets/attachments/shadodog/3.mp3" %}
@@ -27,7 +28,7 @@ listen:
 {% include embed-audio.html src="/assets/attachments/shadodog/18mp3" %}
 {% include embed-audio.html src="/assets/attachments/shadodog/19.mp3" %}
 {% include embed-audio.html src="/assets/attachments/shadodog/20.mp3" %}
-{% include embed-audio.html src="/assets/attachments/shadodog/21.p3" %}
+{% include embed-audio.html src="/assets/attachments/shadodog/21.mp3" %}
 
 ![[6020337.png]]
 
