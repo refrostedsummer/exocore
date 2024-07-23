@@ -15,9 +15,9 @@ tags:
     <tr>
       {% for pair in row %}
         <th>{{ pair[0] }}</th>
-      {% endif %}
+      {% endfor %}
     </tr>
-    {% endfor %}
+
 
     {% tablerow pair in row %}
       {{ pair[1] }}
