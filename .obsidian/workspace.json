@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_daily/2024-07-22.md",
+                "file": "_wiki/shadowdog.md",
                 "mode": "source",
                 "source": true
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_daily/2024-07-22.md",
+                "file": "_wiki/shadowdog.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_daily/2024-07-22.md",
+                "file": "_wiki/shadowdog.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_daily/2024-07-22.md"
+                "file": "_wiki/shadowdog.md"
               }
             }
           },
@@ -171,8 +171,10 @@
   },
   "active": "698d6c845f2e0aa3",
   "lastOpenFiles": [
+    "_daily/2024-07-21.md",
     "_wiki/shadowdog.md",
     "_daily/2024-07-22.md",
+    "exocore/_includes/embed-audio.html",
     "assets/attachments/shadodog/3.mp3",
     "_wiki/music ratings.md",
     "DataTables/datatables.min.js",
@@ -180,13 +182,11 @@
     "DataTables/datatables.js",
     "DataTables/datatables.css",
     "DataTables",
-    "_daily/2024-07-21.md",
     "_wiki/record collection.md",
     "_wiki/music.md",
     "_data/vinylz.csv",
     "_data/gree_n-collection-20240721-1303.csv",
     "_data",
-    "New folder",
     "_daily/2024-07-13.md",
     "_articles/Exocore Installation Instructions.md",
     "_daily/2024-07-12.md",

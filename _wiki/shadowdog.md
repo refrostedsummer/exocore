@@ -8,7 +8,7 @@ tags: art music
 # shadowdog
 [listen](https://www.youtube.com/watch?v=fVLGvFMzjIs)
 
-{% miniaudio '/assets/attachments/shadodog/3.mp3' %}
+{% include embed-audio.html src="/assets/attachments/shadodog/3.mp3" %}
 
 ![[6020337.png]]
 
@@ -17,7 +17,7 @@ tags: art music
 
 ## some excerpts i like
 
-Most of the music that gets branded with the "post-internet" label often has an ironic or detached edge to it, yet still presents this idealistic image of the internet as a way to facilitate [a change] from the banalities of everyday life. tirestires' _Shadowdog_ ignores even the suggestion of putting up that sort of facade at all, instead presenting a bleaker view of the concept; overstimulating yet ultimately mind-numbing, an outlet to fulfill every perversion no matter how overly-specific or morally dubious, full of incoherent sludge not even comprehensible to the minds who engineered it. Whereas the sort of thing that gets labeled "hyperpop" presents an alternate reality where one is free from embarrassment, tirestires provides the reality check, showing the world how deep the abyss truly is.
+Most of the music that gets branded with the "post-internet" label often has an ironic or detached edge to it, yet still presents this idealistic image of the internet as a way to facilitate \[a change] from the banalities of everyday life. tirestires' _Shadowdog_ ignores even the suggestion of putting up that sort of facade at all, instead presenting a bleaker view of the concept; overstimulating yet ultimately mind-numbing, an outlet to fulfill every perversion no matter how overly-specific or morally dubious, full of incoherent sludge not even comprehensible to the minds who engineered it. Whereas the sort of thing that gets labeled "hyperpop" presents an alternate reality where one is free from embarrassment, tirestires provides the reality check, showing the world how deep the abyss truly is.
 
 ~ [verai](https://rateyourmusic.com/music-review/verai/tirestires/shadowdog/215104641)
 
