@@ -6,10 +6,10 @@ tags: art music
 ---
 
 # shadowdog
-![[6020337.png]]
-by tirestires
+![[6020337.png]] by tirestires
 
 listen (mp3):
+
 ***after sex under parents***
 {% include embed-audio.html src="/assets/attachments/shadodog/1.mp3" %}
 
