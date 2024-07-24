@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_wiki/test.md",
+                "file": "_wiki/music ratings.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_wiki/test.md",
+                "file": "_wiki/music ratings.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_wiki/test.md",
+                "file": "_wiki/music ratings.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_wiki/test.md"
+                "file": "_wiki/music ratings.md"
               }
             }
           },
@@ -158,8 +158,8 @@
   },
   "active": "698d6c845f2e0aa3",
   "lastOpenFiles": [
-    "_wiki/music ratings.md",
     "_wiki/test.md",
+    "_wiki/music ratings.md",
     "_wiki/shadowdog.md",
     "assets/attachments/shadodog/21.mp3",
     "assets/attachments/shadodog/20.mp3",
