@@ -23,6 +23,8 @@ tags:
                   <details>
                     <summary>[[shadowdog]]</summary>
                     <ul>
+                      <li>[[record collection]]</li>
+                    </ul>
             <ul>
               <li>Jupiter</li>
               <li>Saturn</li>
