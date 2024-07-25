@@ -9,11 +9,20 @@ tags:
 <ul class="tree">
   <li>
     <details open>
-      <summary>Giant planets</summary>
+      <summary>gorb</summary>
       <ul>
         <li>
           <details>
-            <summary>Gas giants</summary>
+            <summary>interests</summary>
+             <ul>
+              <li>
+              <details>
+                <summary>[[music]]</summary>
+                <ul>
+                 <li>
+                  <details>
+                    <summary>[[shadowdog]]</summary>
+                    <ul>
             <ul>
               <li>Jupiter</li>
               <li>Saturn</li>
