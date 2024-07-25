@@ -22,7 +22,6 @@ tags:
                     <li>[[record collection]]</li>
                     <li>[[shadowdog]]</li>
                 </ul>
-              </li>
               <li>
               <details>
                 <summary>books</summary>
@@ -31,10 +30,27 @@ tags:
                     <li>infinite jest</li>
                     <li>amygdalatropolis</li>
                 </ul>
-              </li>
               <li>
               <details>
                 <summary>fragrance</summary>
+                <ul>
+                 <li>
+              <details>
+                <summary>favorite perfumes</summary>
+                <ol>
+                    <li>YSL Black Opium Extreme</li>
+                    <li>Gaultier Divine</li>
+                    <li>A&F Away Woman</li>
+                    <li>Burberry London</li>
+                    <li>CK Escape for Men</li>
+                    <li>John Varvatos (terrible performance!!!!!!!!)</li>
+                </ol>
+              </li>
+                </ul>
+              </li>
+              <li>
+              <details>
+                <summary>video game</summary>
                 <ul>
                  <li>
               <details>
