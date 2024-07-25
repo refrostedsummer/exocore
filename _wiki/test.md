@@ -32,31 +32,6 @@ tags:
                     <li>amygdalatropolis</li>
                 </ul>
               </li>
-            </ul>
-        </li>
-      </ul>
-      <ul>
-        <li>
-          <details>
-            <summary>interests</summary>
-             <ul>
-              <li>
-              <details>
-                <summary>[[music]]</summary>
-                <ul>
-                    <li>[[record collection]]</li>
-                    <li>[[shadowdog]]</li>
-                </ul>
-              </li>
-              <li>
-              <details>
-                <summary>books</summary>
-                <ul>
-                    <li>a thousand plateaus</li>
-                    <li>infinite jest</li>
-                    <li>amygdalatropolis</li>
-                </ul>
-              </li>
               <li>
               <details>
                 <summary>fragrance</summary>
@@ -78,25 +53,3 @@ tags:
             </ul>
         </li>
       </ul>
-
-
-
-            <ul>
-              <li>Jupiter</li>
-              <li>Saturn</li>
-            </ul>
-          </details>
-        </li>
-        <li>
-          <details>
-            <summary>Ice giants</summary>
-            <ul>
-              <li>Uranus</li>
-              <li>Neptune</li>
-            </ul>
-          </details>
-        </li>
-      </ul>
-    </details>
-  </li>
-</ul>
