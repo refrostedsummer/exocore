@@ -79,7 +79,7 @@ tags: art music
 </p>
 </details>
 
-![[gallery-sri-panwa-luxury-hotel-phuket-pool-suite-east-1.jpg]]
+![[gallery-sri-panwa-luxury-hotel-phuket-pool-suite-east-1.jpg]]Sri Panwa Phuket Luxury Pool Villa Hotel
 
 shadowdog is a stream of consciousness-style first-person narrative which begins somewhere in the subject’s early childhood (perhaps around his first interactions/experiences with technology) and ends somewhere in his later adulthood. (in the album this is not chronologically in order.)
 
