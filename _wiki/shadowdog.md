@@ -14,47 +14,47 @@ tags: art music
     <p>
 
 <p><strong><em>after sex under parents</em></strong>
-{% include embed-audio.html src=&quot;/assets/attachments/shadodog/1.mp3&quot; %}</p>
+{% include embed-audio.html src='/assets/attachments/shadodog/1.mp3' %}</p>
 <p><strong><em>minutes in and chill meme // mature butthole prolapses inside-out // my basement scene #1</em></strong>
-{% include embed-audio.html src=&quot;/assets/attachments/shadodog/2.mp3&quot; %}</p>
+{% include embed-audio.html src='/assets/attachments/shadodog/2.mp3' %}</p>
 <p><strong><em>breaking apart baby monitor/potential recording device // my basement scene #2</em></strong>
-{% include embed-audio.html src=&quot;/assets/attachments/shadodog/3.mp3&quot; %}</p>
+{% include embed-audio.html src='/assets/attachments/shadodog/3.mp3' %}</p>
 <p><strong><em>unclogging roof drain on her // bare rests</em></strong>
-{% include embed-audio.html src=&quot;/assets/attachments/shadodog/4.mp3&quot; %}</p>
+{% include embed-audio.html src='/assets/attachments/shadodog/4.mp3' %}</p>
 <p><strong><em>valerian tea // underage on message board // mom tags herself viewing me in ultrasound // a vacation, apart</em></strong>
-{% include embed-audio.html src=&quot;/assets/attachments/shadodog/5.mp3&quot; %}</p>
+{% include embed-audio.html src='/assets/attachments/shadodog/5.mp3' %}</p>
 <p><strong><em>hiding seek at family reunion // drowning after sand burial // a vacation</em></strong>
-{% include embed-audio.html src=&quot;/assets/attachments/shadodog/6.mp3&quot; %}</p>
+{% include embed-audio.html src='/assets/attachments/shadodog/6.mp3' %}</p>
 <p><strong><em>breast feeding home movie // head indents ceiling, again // 50th mom birthday</em></strong>
-{% include embed-audio.html src=&quot;/assets/attachments/shadodog/7.mp3&quot; %}</p>
+{% include embed-audio.html src='/assets/attachments/shadodog/7.mp3' %}</p>
 <p><strong><em>wedding dress rehearsal after bachelor party/baby shower // morning nausea</em></strong>
-{% include embed-audio.html src=&quot;/assets/attachments/shadodog/8.mp3&quot; %}</p>
+{% include embed-audio.html src='/assets/attachments/shadodog/8.mp3' %}</p>
 <p><strong><em>carrying topical cream back home // elder crossing guard with fas</em></strong>
-{% include embed-audio.html src=&quot;/assets/attachments/shadodog/9.mp3&quot; %}</p>
+{% include embed-audio.html src='/assets/attachments/shadodog/9.mp3' %}</p>
 <p><strong><em>kissing after late party // awaiting torrent finish // sharing old haircut incites new haircut</em></strong>
-{% include embed-audio.html src=&quot;/assets/attachments/shadodog/10.mp3&quot; %}</p>
+{% include embed-audio.html src='/assets/attachments/shadodog/10.mp3' %}</p>
 <p><strong><em>(mirror) upload of ancient condom opening vlog // looking glasses reflecting off each other // my basement scene #3</em></strong>
-{% include embed-audio.html src=&quot;/assets/attachments/shadodog/11.mp3&quot; %}</p>
+{% include embed-audio.html src='/assets/attachments/shadodog/11.mp3' %}</p>
 <p><strong><em>pink eye // far from residential areas with phone and charger and eye drops and no purse and no pockets</em></strong>
-{% include embed-audio.html src=&quot;/assets/attachments/shadodog/12.mp3&quot; %}</p>
+{% include embed-audio.html src='/assets/attachments/shadodog/12.mp3' %}</p>
 <p><strong><em>pvr pregnant teens // before abstract tech support schedule // dad turns 50</em></strong>
-{% include embed-audio.html src=&quot;/assets/attachments/shadodog/13.mp3&quot; %}</p>
+{% include embed-audio.html src='/assets/attachments/shadodog/13.mp3' %}</p>
 <p><strong><em>sharing one-bed room // hotel bolts down all fixtures other than clock // a vacation</em></strong>
-{% include embed-audio.html src=&quot;/assets/attachments/shadodog/14.mp3&quot; %}</p>
+{% include embed-audio.html src='/assets/attachments/shadodog/14.mp3' %}</p>
 <p><strong><em>mommymommymommymommy // i text while driving communications between parents</em></strong>
-{% include embed-audio.html src=&quot;/assets/attachments/shadodog/15.mp3&quot; %}</p>
+{% include embed-audio.html src='/assets/attachments/shadodog/15.mp3' %}</p>
 <p><strong><em>girl next-door break-up nudes // international date site // my basement scene #4</em></strong>
-{% include embed-audio.html src=&quot;/assets/attachments/shadodog/16.mp3&quot; %}</p>
+{% include embed-audio.html src='/assets/attachments/shadodog/16.mp3' %}</p>
 <p><strong><em>shedding fur lit by dvd home menu snow // my basement scene #5</em></strong>
-{% include embed-audio.html src=&quot;/assets/attachments/shadodog/17.mp3&quot; %}</p>
+{% include embed-audio.html src='/assets/attachments/shadodog/17.mp3' %}</p>
 <p><strong><em>new suburb before streetlights // post-millennium/post-mom-move</em></strong>
-{% include embed-audio.html src=&quot;/assets/attachments/shadodog/18.mp3&quot; %}</p>
+{% include embed-audio.html src='/assets/attachments/shadodog/18.mp3' %}</p>
 <p><strong><em>holiday in house with kids // pre-millennium/pre-mom-move // not summer</em></strong>
-{% include embed-audio.html src=&quot;/assets/attachments/shadodog/19.mp3&quot; %}</p>
+{% include embed-audio.html src='/assets/attachments/shadodog/19.mp3' %}</p>
 <p><strong><em>fursona request thread // home phoning cell before deleting first nudes // my basement scene #6</em></strong>
-{% include embed-audio.html src=&quot;/assets/attachments/shadodog/20.mp3&quot; %}</p>
+{% include embed-audio.html src='/assets/attachments/shadodog/20.mp3' %}</p>
 <p><strong><em>pollen like snow // not summer</em></strong>
-{% include embed-audio.html src=&quot;/assets/attachments/shadodog/21.mp3&quot; %}</p>
+{% include embed-audio.html src='/assets/attachments/shadodog/21.mp3' %}</p>
 
 </p>
 </details>
