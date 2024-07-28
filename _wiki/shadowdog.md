@@ -5,6 +5,14 @@ date: 2024-07-09
 tags: art music
 ---
 
+<script src="/audiojs/audio.min.js"></script>
+
+<script>
+  audiojs.events.ready(function() {
+    var as = audiojs.createAll();
+  });
+</script>
+
 # shadowdog
 ![[6020337.png]]
 by tirestires
@@ -15,7 +23,8 @@ by tirestires
     <p>
 
 <p><strong><em>after sex under parents<br/></em></strong>
-{% include embed-audio.html src='/assets/attachments/shadodog/1.mp3' %}<br/></p>
+<audio src="/mp3/1.mp3" preload="auto" />
+<br/></p>
 <p><strong><em>minutes in and chill meme // mature butthole prolapses inside-out // my basement scene #1<br/></em></strong>
 {% include embed-audio.html src='/assets/attachments/shadodog/2.mp3' %}<br/></p>
 <p><strong><em>breaking apart baby monitor/potential recording device // my basement scene #2<br/></em></strong>
