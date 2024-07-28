@@ -23,7 +23,7 @@ by tirestires
     <p>
 
 <p><strong><em>after sex under parents<br/></em></strong>
-<audio src="/mp3/1.mp3" preload="auto" />
+<audio src="/assets/attachments/shadodog/1.mp3" preload="auto" />
 <br/></p>
 <p><strong><em>minutes in and chill meme // mature butthole prolapses inside-out // my basement scene #1<br/></em></strong>
 {% include embed-audio.html src='/assets/attachments/shadodog/2.mp3' %}<br/></p>
