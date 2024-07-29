@@ -158,18 +158,20 @@
   },
   "active": "698d6c845f2e0aa3",
   "lastOpenFiles": [
+    "assets/js/audiojs/includes/index.css",
+    "assets/js/audiojs/includes",
+    "assets/js/audiojs/audiojs/player-graphics.gif",
+    "assets/js/audiojs/audiojs/audiojs.swf",
+    "assets/js/audiojs/audiojs/audio.min.js",
+    "assets/js/audiojs/LICENSE",
+    "assets/js/audiojs/index.html",
+    "assets/js/audiojs/audiojs",
+    "assets/js/audiojs",
+    "assets/js/jquery-3.7.1.min.js",
     "exocore/_includes/player-graphics.gif",
     "exocore/_includes/audiojs.swf",
     "exocore/_includes/audio.min.js",
-    "exocore/_includes/audiojs/includes/index.css",
-    "exocore/_includes/audiojs/includes",
     "exocore/_includes/audiojs/audiojs/player-graphics.gif",
-    "exocore/_includes/audiojs/audiojs/audiojs.swf",
-    "exocore/_includes/audiojs/audiojs/audio.min.js",
-    "exocore/_includes/audiojs/audiojs",
-    "exocore/_includes/audiojs/LICENSE",
-    "exocore/_includes/audiojs/index.html",
-    "exocore/_includes/audiojs",
     "_wiki/player-graphics.gif",
     "_daily/2024-07-28.md",
     "_wiki/test.md",
@@ -201,8 +203,6 @@
     "_articles/The Exocore Package.md",
     "ring.md",
     "readme.md",
-    "assets/attachments/Apophysis-221129-117.png",
-    "assets/attachments/disc2.png",
-    "assets/attachments/Untitled5.png"
+    "assets/attachments/Apophysis-221129-117.png"
   ]
 }
