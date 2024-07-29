@@ -71,7 +71,7 @@ tags:
       </ul>
 
 
-<script src="../assets/attachments/js/audiojs/audiojs/audio.min.js"></script>
+<script src="../assets/js/audiojs/audiojs/audio.min.js"></script>
 
 <script>
   audiojs.events.ready(function() {
@@ -106,8 +106,8 @@ tags:
         #shortcuts { display: none; }
       }
 </style>
-  <script src="../assets/attachments/js/jquery-3.6.0.js"></script>
-    <script src="../assets/attachments/js/audiojs/audiojs/audio.min.js"></script>
+  <script src="../assets/js/jquery-3.6.0.js"></script>
+    <script src="../assets/js/audiojs/audiojs/audio.min.js"></script>
     <script>
     $(function() {
         // Setup the player to autoplay the next track
@@ -153,7 +153,7 @@ tags:
           }
         })
       });
-    </script>
+  </script>
   </head>
 
   <body>
