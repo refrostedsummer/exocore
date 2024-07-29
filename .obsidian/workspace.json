@@ -158,6 +158,7 @@
   },
   "active": "698d6c845f2e0aa3",
   "lastOpenFiles": [
+    "_site/pages/shadowdog.html",
     "assets/js/audiojs/includes/index.css",
     "assets/js/audiojs/includes",
     "assets/js/audiojs/audiojs/player-graphics.gif",
@@ -170,7 +171,6 @@
     "assets/js/jquery-3.7.1.min.js",
     "exocore/_includes/player-graphics.gif",
     "exocore/_includes/audiojs.swf",
-    "exocore/_includes/audio.min.js",
     "exocore/_includes/audiojs/audiojs/player-graphics.gif",
     "_wiki/player-graphics.gif",
     "_daily/2024-07-28.md",
