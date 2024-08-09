@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_wiki/music ratings.md",
+                "file": "_daily/2024-08-08.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_wiki/music ratings.md",
+                "file": "_daily/2024-08-08.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_wiki/music ratings.md",
+                "file": "_daily/2024-08-08.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_wiki/music ratings.md"
+                "file": "_daily/2024-08-08.md"
               }
             }
           },
@@ -158,6 +158,8 @@
   },
   "active": "698d6c845f2e0aa3",
   "lastOpenFiles": [
+    "_wiki/music ratings.md",
+    "_daily/2024-08-08.md",
     "_site/assets/attachments/shadodog/cover.jpg",
     "_site/assets/attachments/shadodog/9.mp3",
     "_site/assets/attachments/shadodog/8.mp3",
@@ -175,7 +177,6 @@
     "_wiki/player-graphics.gif",
     "_daily/2024-07-28.md",
     "_wiki/test.md",
-    "_wiki/music ratings.md",
     "_wiki/shadowdog.md",
     "_daily/2024-07-21.md",
     "_daily/2024-07-22.md",
@@ -202,7 +203,6 @@
     "_journal/The Exocore Workflow.md",
     "_articles/The Exocore Package.md",
     "ring.md",
-    "readme.md",
-    "assets/attachments/Apophysis-221129-117.png"
+    "readme.md"
   ]
 }
