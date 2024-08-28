@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_daily/2024-08-08.md",
+                "file": "_wiki/shadowdog.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_daily/2024-08-08.md",
+                "file": "_wiki/shadowdog.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_daily/2024-08-08.md",
+                "file": "_wiki/shadowdog.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_daily/2024-08-08.md"
+                "file": "_wiki/shadowdog.md"
               }
             }
           },
@@ -158,8 +158,9 @@
   },
   "active": "698d6c845f2e0aa3",
   "lastOpenFiles": [
-    "_wiki/music ratings.md",
     "_daily/2024-08-08.md",
+    "_daily/2024-08-28.md",
+    "_wiki/music ratings.md",
     "_site/assets/attachments/shadodog/cover.jpg",
     "_site/assets/attachments/shadodog/9.mp3",
     "_site/assets/attachments/shadodog/8.mp3",
@@ -202,7 +203,6 @@
     "assets/imgs/Apophysis-221129-117.png",
     "_journal/The Exocore Workflow.md",
     "_articles/The Exocore Package.md",
-    "ring.md",
-    "readme.md"
+    "ring.md"
   ]
 }

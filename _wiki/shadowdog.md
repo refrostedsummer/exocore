@@ -23,8 +23,7 @@ by tirestires
     <p>
 
 <p><strong><em>after sex under parents<br/></em></strong>
-<audio src="/assets/attachments/shadodog/1.mp3" preload="auto" />
-<br/></p>
+{% include embed-audio.html src='/assets/attachments/shadodog/2.mp3' %}<br/></p>
 <p><strong><em>minutes in and chill meme // mature butthole prolapses inside-out // my basement scene #1<br/></em></strong>
 {% include embed-audio.html src='/assets/attachments/shadodog/2.mp3' %}<br/></p>
 <p><strong><em>breaking apart baby monitor/potential recording device // my basement scene #2<br/></em></strong>
@@ -72,9 +71,9 @@ by tirestires
 ![[gallery-sri-panwa-luxury-hotel-phuket-pool-suite-east-1.jpg]]
 *Sri Panwa Phuket Luxury Pool Villa Hotel*
 
-shadowdog is a stream of consciousness-style first-person narrative which begins somewhere in the subject’s early childhood (perhaps around his first interactions/experiences with technology) and ends somewhere in his later adulthood. (in the album this is not chronologically in order.)
+shadowdog is a stream of consciousness-style first-person narrative which begins somewhere in the subject’s early childhood (perhaps around their first interactions/experiences with technology) and ends somewhere in their later adulthood. (in the album this is not chronologically in order.)
 
-i consider it a brilliant and relentless portrait of the cycle of abuse in a post-net world (particularly on the concept that paraphilias can originate from trauma and/or childhood exposure to shocking content) as well as the social and psychological impacts of the internet on children and adolescent development, and ultimately humanity/society at large.
+i consider it a brilliant and relentless portrait of an internet-saturated world and how the cycle of abuse can manifest in it (particularly on the concept that paraphilias can originate from trauma and/or childhood exposure to shocking ) as well as the social and psychological impacts of the internet on children and adolescent development, and ultimately humanity/society at large.
 
 ## some excerpts i like
 
