@@ -73,7 +73,7 @@ by tirestires
 
 shadowdog is a stream of consciousness-style first-person narrative which begins somewhere in the subject’s early childhood (perhaps around their first interactions/experiences with technology) and ends somewhere in their later adulthood. (in the album this is not chronologically in order.)
 
-i consider it a brilliant and relentless portrait of an internet-saturated world and how the cycle of abuse can manifest in it (particularly on the concept that paraphilias can originate from trauma and/or childhood exposure to shocking ) as well as the social and psychological impacts of the internet on children and adolescent development, and ultimately humanity/society at large.
+i consider it a brilliant and relentless portrait of an internet-saturated world and how the cycle of abuse can manifest in it (particularly on the concept that paraphilias can originate from trauma and/or childhood exposure to shocking things) as well as the social and psychological impacts of the internet on children and adolescent development, and ultimately humanity/society at large.
 
 ## some excerpts i like
 
