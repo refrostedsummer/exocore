@@ -35,8 +35,7 @@
               "title": "newinternet"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_journal/newinternet.md",
+                "file": "_wiki/shadowdog.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +117,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for newinternet"
+              "title": "Backlinks for shadowdog"
             }
           },
           {
@@ -127,12 +126,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_journal/newinternet.md",
+                "file": "_wiki/shadowdog.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from newinternet"
+              "title": "Outgoing links from shadowdog"
             }
           },
           {
@@ -154,10 +153,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_journal/newinternet.md"
+                "file": "_wiki/shadowdog.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of newinternet"
+              "title": "Outline of shadowdog"
             }
           },
           {
@@ -189,8 +188,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f201c2f38c7d2cca",
+  "active": "698d6c845f2e0aa3",
   "lastOpenFiles": [
+    "_journal/newinternet.md",
     "index.md",
     "_wiki/shadowdog.md",
     "_wiki/images/gallery-sri-panwa-luxury-hotel-phuket-pool-suite-east-1.jpg",
