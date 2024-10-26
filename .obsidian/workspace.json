@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_wiki/shadowdog.md",
+                "file": "_journal/newinternet.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "shadowdog"
+              "title": "newinternet"
             }
           }
         ],
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_wiki/shadowdog.md",
+                "file": "_journal/newinternet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for shadowdog"
+              "title": "Backlinks for newinternet"
             }
           },
           {
@@ -127,12 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_wiki/shadowdog.md",
+                "file": "_journal/newinternet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from shadowdog"
+              "title": "Outgoing links from newinternet"
             }
           },
           {
@@ -154,10 +154,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_wiki/shadowdog.md"
+                "file": "_journal/newinternet.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of shadowdog"
+              "title": "Outline of newinternet"
             }
           },
           {
@@ -191,13 +191,14 @@
   },
   "active": "f201c2f38c7d2cca",
   "lastOpenFiles": [
+    "index.md",
+    "_wiki/shadowdog.md",
     "_wiki/images/gallery-sri-panwa-luxury-hotel-phuket-pool-suite-east-1.jpg",
     "_wiki/images/6020337.png",
     "_wiki/images",
     "images/gallery-sri-panwa-luxury-hotel-phuket-pool-suite-east-1.jpg",
     "images/6020337.png",
     "_wiki/shadowdog/gallery-sri-panwa-luxury-hotel-phuket-pool-suite-east-1.jpg",
-    "_wiki/shadowdog.md",
     "_wiki/shadowdog/6020337.png",
     "_wiki/shadowdog",
     "_daily/2024-10-26.md",
@@ -217,7 +218,6 @@
     "assets/js/audiojs/audiojs/player-graphics.gif",
     "exocore/_includes/player-graphics.gif",
     "exocore/_includes/audiojs/audiojs/player-graphics.gif",
-    "_wiki/player-graphics.gif",
     "_daily/2024-07-28.md",
     "_wiki/test.md",
     "_daily/2024-07-21.md",
@@ -235,7 +235,6 @@
     "_daily/2024-07-10.md",
     "_wiki/Usufruct.md",
     "_daily/2024-07-09.md",
-    "_articles/Configure Exocore for Personal Use.md",
-    "index.md"
+    "_articles/Configure Exocore for Personal Use.md"
   ]
 }
