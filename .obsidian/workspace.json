@@ -16,7 +16,21 @@
                 "file": "_wiki/shadowdog.md",
                 "mode": "source",
                 "source": true
-              }
+              },
+              "icon": "lucide-file",
+              "title": "shadowdog"
+            }
+          },
+          {
+            "id": "f201c2f38c7d2cca",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "_wiki/shadowdog/gallery-sri-panwa-luxury-hotel-phuket-pool-suite-east-1.jpg"
+              },
+              "icon": "lucide-image",
+              "title": "gallery-sri-panwa-luxury-hotel-phuket-pool-suite-east-1"
             }
           }
         ]
@@ -39,7 +53,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -54,7 +70,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,7 +80,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -93,7 +113,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for shadowdog"
             }
           },
           {
@@ -105,7 +127,9 @@
                 "file": "_wiki/shadowdog.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from shadowdog"
             }
           },
           {
@@ -116,7 +140,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -126,7 +152,9 @@
               "type": "outline",
               "state": {
                 "file": "_wiki/shadowdog.md"
-              }
+              },
+              "icon": "lucide-list",
+              "title": "Outline of shadowdog"
             }
           },
           {
@@ -134,7 +162,9 @@
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
-              "state": {}
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           }
         ],
@@ -158,8 +188,12 @@
   },
   "active": "698d6c845f2e0aa3",
   "lastOpenFiles": [
-    "_daily/2024-10-23.md",
+    "_wiki/shadowdog/6020337.png",
     "_wiki/shadowdog.md",
+    "_wiki/shadowdog/gallery-sri-panwa-luxury-hotel-phuket-pool-suite-east-1.jpg",
+    "_wiki/shadowdog",
+    "_daily/2024-10-26.md",
+    "_daily/2024-10-23.md",
     "_daily/2024-08-08.md",
     "_daily/2024-08-28.md",
     "_wiki/music ratings.md",
@@ -173,7 +207,6 @@
     "_site/assets/attachments/shadodog/3.mp3",
     "_site/assets/attachments/shadodog/21.mp3",
     "_site/assets/attachments/shadodog/20.mp3",
-    "_site/assets/attachments/shadodog/2.mp3",
     "assets/js/audiojs/audiojs/player-graphics.gif",
     "exocore/_includes/player-graphics.gif",
     "exocore/_includes/audiojs/audiojs/player-graphics.gif",
@@ -193,16 +226,12 @@
     "_daily/2022-05-11.md",
     "_daily/2024-07-08.md",
     "_daily/2024-07-10.md",
-    "assets/attachments/gallery-sri-panwa-luxury-hotel-phuket-pool-suite-east-1.jpg",
-    "assets/attachments/6020337.png",
     "assets/attachments/Pasted image 20240709212012.jpg",
     "_wiki/Usufruct.md",
     "_daily/2024-07-09.md",
     "_articles/Configure Exocore for Personal Use.md",
     "index.md",
     "assets/imgs/pfp.png",
-    "assets/imgs/Apophysis-221129-117.png",
-    "_journal/The Exocore Workflow.md",
-    "_articles/The Exocore Package.md"
+    "assets/imgs/Apophysis-221129-117.png"
   ]
 }

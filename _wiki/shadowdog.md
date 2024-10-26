@@ -14,7 +14,7 @@ tags: art music
 </script>
 
 # shadowdog
-![[6020337.png]]
+![6020337.png](_wiki/shadowdog/6020337.png)
 by tirestires
 <details>
     <summary>
@@ -68,7 +68,7 @@ by tirestires
 </p>
 </details>
 
-![[gallery-sri-panwa-luxury-hotel-phuket-pool-suite-east-1.jpg]]
+![gallery-sri-panwa-luxury-hotel-phuket-pool-suite-east-1.jpg](_wiki/shadowdog/gallery-sri-panwa-luxury-hotel-phuket-pool-suite-east-1.jpg)
 *Sri Panwa Phuket Luxury Pool Villa Hotel*
 
 shadowdog is a stream of consciousness-style first-person narrative which begins somewhere in the subject’s early childhood (perhaps around their first interactions/experiences with technology) and ends somewhere in their later adulthood. (in the album this is not chronologically in order.)
