@@ -14,7 +14,7 @@ tags: art music
 </script>
 
 # shadowdog
-![](_wiki/shadowdog/6020337.png)
+![](images/6020337.png)
 by tirestires
 <details>
     <summary>

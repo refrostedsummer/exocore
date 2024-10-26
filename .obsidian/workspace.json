@@ -25,15 +25,18 @@
             "id": "f201c2f38c7d2cca",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "_wiki/shadowdog/gallery-sri-panwa-luxury-hotel-phuket-pool-suite-east-1.jpg"
+                "file": "_wiki/shadowdog.md",
+                "mode": "source",
+                "source": true
               },
-              "icon": "lucide-image",
-              "title": "gallery-sri-panwa-luxury-hotel-phuket-pool-suite-east-1"
+              "icon": "lucide-file",
+              "title": "shadowdog"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -186,8 +189,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "698d6c845f2e0aa3",
+  "active": "f201c2f38c7d2cca",
   "lastOpenFiles": [
+    "images/gallery-sri-panwa-luxury-hotel-phuket-pool-suite-east-1.jpg",
+    "images/6020337.png",
     "_wiki/shadowdog/gallery-sri-panwa-luxury-hotel-phuket-pool-suite-east-1.jpg",
     "_wiki/shadowdog.md",
     "_wiki/shadowdog/6020337.png",
@@ -231,7 +236,6 @@
     "_daily/2024-07-09.md",
     "_articles/Configure Exocore for Personal Use.md",
     "index.md",
-    "assets/imgs/pfp.png",
-    "assets/imgs/Apophysis-221129-117.png"
+    "assets/imgs/pfp.png"
   ]
 }
