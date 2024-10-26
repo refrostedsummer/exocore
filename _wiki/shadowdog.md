@@ -68,7 +68,7 @@ by tirestires
 </p>
 </details>
 
-![](_wiki/shadowdog/gallery-sri-panwa-luxury-hotel-phuket-pool-suite-east-1.jpg)
+![](images/gallery-sri-panwa-luxury-hotel-phuket-pool-suite-east-1.jpg)
 *Sri Panwa Phuket Luxury Pool Villa Hotel*
 
 shadowdog is a stream of consciousness-style first-person narrative which begins somewhere in the subject’s early childhood (perhaps around their first interactions/experiences with technology) and ends somewhere in their later adulthood. (in the album this is not chronologically in order.)
