@@ -22,6 +22,18 @@
             }
           },
           {
+            "id": "00e80e8499f162ea",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "images/gallery-sri-panwa-luxury-hotel-phuket-pool-suite-east-1.jpg"
+              },
+              "icon": "lucide-image",
+              "title": "gallery-sri-panwa-luxury-hotel-phuket-pool-suite-east-1"
+            }
+          },
+          {
             "id": "f201c2f38c7d2cca",
             "type": "leaf",
             "state": {
@@ -35,7 +47,8 @@
               "title": "newinternet"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -188,11 +201,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "698d6c845f2e0aa3",
+  "active": "00e80e8499f162ea",
   "lastOpenFiles": [
+    "images/6020337.jpg",
+    "_wiki/shadowdog.md",
+    "_articles/table test.md",
+    "_daily/2025-01-03.md",
     "_journal/newinternet.md",
     "index.md",
-    "_wiki/shadowdog.md",
     "_wiki/images/gallery-sri-panwa-luxury-hotel-phuket-pool-suite-east-1.jpg",
     "_wiki/images/6020337.png",
     "_wiki/images",
@@ -232,9 +248,6 @@
     "_wiki/L-Dopa.md",
     "_daily/2022-05-11.md",
     "_daily/2024-07-08.md",
-    "_daily/2024-07-10.md",
-    "_wiki/Usufruct.md",
-    "_daily/2024-07-09.md",
-    "_articles/Configure Exocore for Personal Use.md"
+    "_daily/2024-07-10.md"
   ]
 }
