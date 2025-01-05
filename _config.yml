@@ -183,3 +183,5 @@ plugins:
 - jekyll-graph
 - jekyll-spaceship
 - jekyll-scholar
+- jekyll-admin
+- jekyll-tagging
