@@ -2,9 +2,9 @@
 # --- USER CONFIGURATION --- #
 ##############################
 
-title: exogorb
-description: A navigable, organised hypertext gorb
-url: https://gorbyworld.netlify.app
+title: gorbspace
+description: A navigable, 'organised' hypertext gorb
+url: https://gorb.space
 repository: refrostedsummer/exocore
 
 ##############################################
