@@ -25,12 +25,10 @@
             "id": "00e80e8499f162ea",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "images/gallery-sri-panwa-luxury-hotel-phuket-pool-suite-east-1.jpg"
-              },
-              "icon": "lucide-image",
-              "title": "gallery-sri-panwa-luxury-hotel-phuket-pool-suite-east-1"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
@@ -203,6 +201,8 @@
   },
   "active": "00e80e8499f162ea",
   "lastOpenFiles": [
+    "ring.md",
+    "images/gallery-sri-panwa-luxury-hotel-phuket-pool-suite-east-1.jpg",
     "images/6020337.jpg",
     "_wiki/shadowdog.md",
     "_articles/table test.md",
@@ -212,7 +212,6 @@
     "_wiki/images/gallery-sri-panwa-luxury-hotel-phuket-pool-suite-east-1.jpg",
     "_wiki/images/6020337.png",
     "_wiki/images",
-    "images/gallery-sri-panwa-luxury-hotel-phuket-pool-suite-east-1.jpg",
     "images/6020337.png",
     "_wiki/shadowdog/gallery-sri-panwa-luxury-hotel-phuket-pool-suite-east-1.jpg",
     "_wiki/shadowdog/6020337.png",
@@ -233,7 +232,6 @@
     "_site/assets/attachments/shadodog/21.mp3",
     "assets/js/audiojs/audiojs/player-graphics.gif",
     "exocore/_includes/player-graphics.gif",
-    "exocore/_includes/audiojs/audiojs/player-graphics.gif",
     "_daily/2024-07-28.md",
     "_wiki/test.md",
     "_daily/2024-07-21.md",
