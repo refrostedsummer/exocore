@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "613a42ada2c90d73",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.7"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.7"
+            }
+          },
+          {
             "id": "f201c2f38c7d2cca",
             "type": "leaf",
             "state": {
@@ -46,7 +58,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -199,8 +211,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "00e80e8499f162ea",
+  "active": "613a42ada2c90d73",
   "lastOpenFiles": [
+    "_daily/2025-01-07.md",
     "ring.md",
     "images/gallery-sri-panwa-luxury-hotel-phuket-pool-suite-east-1.jpg",
     "images/6020337.jpg",
@@ -245,7 +258,6 @@
     "_wiki/fractals.md",
     "_wiki/L-Dopa.md",
     "_daily/2022-05-11.md",
-    "_daily/2024-07-08.md",
-    "_daily/2024-07-10.md"
+    "_daily/2024-07-08.md"
   ]
 }
