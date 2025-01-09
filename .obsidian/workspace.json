@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_scrapbook/Predictive Processing and the Free Energy Principle.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Predictive Processing and the Free Energy Principle"
+              "title": "index"
             }
           }
         ],
@@ -191,6 +191,7 @@
   },
   "active": "00e80e8499f162ea",
   "lastOpenFiles": [
+    "_scrapbook/Predictive Processing and the Free Energy Principle.md",
     "_wiki/player-graphics.gif",
     "_journal/newinternet.md",
     "_wiki/shadowdog.md",
@@ -225,7 +226,6 @@
     "_site/assets/attachments/shadodog/3.mp3",
     "_site/assets/attachments/shadodog/21.mp3",
     "assets/js/audiojs/audiojs/player-graphics.gif",
-    "exocore/_includes/player-graphics.gif",
     "_daily/2024-07-28.md",
     "_wiki/test.md",
     "_daily/2024-07-21.md",
