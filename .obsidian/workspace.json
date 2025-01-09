@@ -25,10 +25,14 @@
             "id": "00e80e8499f162ea",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "_daily/2025-01-09.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "2025-01-09"
             }
           },
           {
@@ -58,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -211,8 +215,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "613a42ada2c90d73",
+  "active": "00e80e8499f162ea",
   "lastOpenFiles": [
+    "_daily/2025-01-09.md",
+    "_wiki/L-Dopa.md",
     "_daily/2025-01-07.md",
     "ring.md",
     "images/gallery-sri-panwa-luxury-hotel-phuket-pool-suite-east-1.jpg",
@@ -252,12 +258,4 @@
     "_wiki/record collection.md",
     "_wiki/music.md",
     "_daily/2024-07-13.md",
-    "_articles/Exocore Installation Instructions.md",
-    "_daily/2024-07-12.md",
-    "_daily/2024-07-19.md",
-    "_wiki/fractals.md",
-    "_wiki/L-Dopa.md",
-    "_daily/2022-05-11.md",
-    "_daily/2024-07-08.md"
-  ]
-}
+    "_articles/Exocore Installation Inst
