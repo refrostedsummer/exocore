@@ -3,7 +3,6 @@ layout: home
 title: Home
 ---
 
-attempting to create my own 
 
 # The Exocore Package
 
