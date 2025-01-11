@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "_wiki/fractals.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "fractals"
             }
           }
         ],
@@ -191,19 +191,25 @@
   },
   "active": "00e80e8499f162ea",
   "lastOpenFiles": [
-    "_scrapbook/Predictive Processing and the Free Energy Principle.md",
+    "_journal/Ginseng Chicken Tonic Soup (Chinese Style).md",
+    "_wiki/fractals.md",
+    "_wiki/record collection.md",
+    "_wiki/music ratings.md",
     "_wiki/player-graphics.gif",
+    "_wiki/music.md",
+    "_wiki/L-Dopa.md",
+    "_daily/2025-01-11.md",
+    "index.md",
+    "_scrapbook/Predictive Processing and the Free Energy Principle.md",
     "_journal/newinternet.md",
     "_wiki/shadowdog.md",
     "_daily/2025-01-09.md",
-    "_wiki/L-Dopa.md",
     "_daily/2025-01-07.md",
     "ring.md",
     "images/gallery-sri-panwa-luxury-hotel-phuket-pool-suite-east-1.jpg",
     "images/6020337.jpg",
     "_articles/table test.md",
     "_daily/2025-01-03.md",
-    "index.md",
     "_wiki/images/gallery-sri-panwa-luxury-hotel-phuket-pool-suite-east-1.jpg",
     "_wiki/images/6020337.png",
     "_wiki/images",
@@ -215,7 +221,6 @@
     "_daily/2024-10-23.md",
     "_daily/2024-08-08.md",
     "_daily/2024-08-28.md",
-    "_wiki/music ratings.md",
     "_site/assets/attachments/shadodog/cover.jpg",
     "_site/assets/attachments/shadodog/9.mp3",
     "_site/assets/attachments/shadodog/8.mp3",
@@ -230,12 +235,7 @@
     "_wiki/test.md",
     "_daily/2024-07-21.md",
     "_daily/2024-07-22.md",
-    "_wiki/record collection.md",
-    "_wiki/music.md",
     "_daily/2024-07-13.md",
-    "_articles/Exocore Installation Instructions.md",
-    "_daily/2024-07-12.md",
-    "_daily/2024-07-19.md",
-    "_wiki/fractals.md"
+    "_articles/Exocore Installation Instructions.md"
   ]
 }
