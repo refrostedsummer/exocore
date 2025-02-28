@@ -4,39 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "9a6d7b65dfe24a65",
+        "id": "4f65c855640cca14",
         "type": "tabs",
         "children": [
           {
-            "id": "698d6c845f2e0aa3",
+            "id": "0447d99d6dd02551",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_wiki/shadowdog.md",
-                "mode": "source",
-                "source": true
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "shadowdog"
-            }
-          },
-          {
-            "id": "00e80e8499f162ea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_wiki/fractals.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "fractals"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -189,20 +170,21 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "00e80e8499f162ea",
+  "active": "0447d99d6dd02551",
   "lastOpenFiles": [
-    "_journal/Ginseng Chicken Tonic Soup (Chinese Style).md",
+    "_wiki/shadowdog.md",
     "_wiki/fractals.md",
+    "_daily/2025-01-11.md",
+    "_daily/6d16c5.md",
+    "_journal/Ginseng Chicken Tonic Soup (Chinese Style).md",
     "_wiki/record collection.md",
     "_wiki/music ratings.md",
     "_wiki/player-graphics.gif",
     "_wiki/music.md",
     "_wiki/L-Dopa.md",
-    "_daily/2025-01-11.md",
     "index.md",
     "_scrapbook/Predictive Processing and the Free Energy Principle.md",
     "_journal/newinternet.md",
-    "_wiki/shadowdog.md",
     "_daily/2025-01-09.md",
     "_daily/2025-01-07.md",
     "ring.md",
@@ -235,7 +217,6 @@
     "_wiki/test.md",
     "_daily/2024-07-21.md",
     "_daily/2024-07-22.md",
-    "_daily/2024-07-13.md",
-    "_articles/Exocore Installation Instructions.md"
+    "_daily/2024-07-13.md"
   ]
 }
