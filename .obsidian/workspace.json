@@ -170,8 +170,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0447d99d6dd02551",
+  "active": "e509f202f4abd033",
   "lastOpenFiles": [
+    "_wiki/analytic-idealism.md",
+    "_wiki/Analytic Idealism.md",
+    "_daily/2025-02-28.md",
     "_wiki/shadowdog.md",
     "_wiki/fractals.md",
     "_daily/2025-01-11.md",
@@ -214,9 +217,6 @@
     "_site/assets/attachments/shadodog/21.mp3",
     "assets/js/audiojs/audiojs/player-graphics.gif",
     "_daily/2024-07-28.md",
-    "_wiki/test.md",
-    "_daily/2024-07-21.md",
-    "_daily/2024-07-22.md",
-    "_daily/2024-07-13.md"
+    "_wiki/test.md"
   ]
 }
